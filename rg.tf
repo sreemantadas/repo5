@@ -10,8 +10,8 @@ resource "azurerm_resource_group" "name1" {
   
 }
 
-resource "azurerm_resource_group" "name2" {
-    name = "training-rg2"
+resource "azurerm_resource_group" "name4" {
+    name = "training-rg4"
     location = "westus"
   
 }
